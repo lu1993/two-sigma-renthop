@@ -11,9 +11,9 @@ The objective of this competition is to feature rental listing data from RentHop
 
 — features <- Scripts to do feature engineering
 
-	final <- Features used in the final model
+&nbsp — final <- Features used in the final model
     
-	attempt <- Features ever tried
+&nbsp — attempt <- Features ever tried
     
 — models <- Scripts to build, train models and then use trained 
 

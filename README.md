@@ -26,3 +26,4 @@ The objective of this competition is to feature rental listing data from RentHop
 - Download data from Kaggle, unzip and put it in data
 
 
+

@@ -5,21 +5,21 @@
 The objective of this competition is to feature rental listing data from RentHop and to predict the number of inquiries a new listing receives based on the listing’s creation date and other features.
 
 ## **Project organization**
-— README.md <- The top level README for developers using this project
+— README.md  <- The top level README for developers using this project
 
-— data <- training and test dataset used in this project
+— data       <- training and test dataset used in this project
 
-— features <- Scripts to do feature engineering
+— features   <- Scripts to do feature engineering
 
-&nbsp — final <- Features used in the final model
+ + — final   <- Features used in the final model
     
-&nbsp — attempt <- Features ever tried
+ + — attempt <- Features ever tried
     
-— models <- Scripts to build, train models and then use trained 
+— models     <- Scripts to build, train models and then use trained 
 
-— utils <- Scripts with various utility functions
+— utils      <- Scripts with various utility functions
 
-— reports <- Generated analysis and submissions
+— reports    <- Generated analysis and submissions
 
 ## **Setup**
 ### Data

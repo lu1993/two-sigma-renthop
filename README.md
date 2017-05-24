@@ -17,7 +17,7 @@ The objective of this competition is to feature rental listing data from RentHop
     
 — models     <- Scripts to build, train models and then use trained 
 
-— reports    <- Generated analysis and submissions
+— reports    <- Submissions and report
 
 ## **Setup**
 ### Data
